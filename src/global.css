@@ -1,0 +1,10 @@
+body {
+  background: #eaf3fe !important;
+  font-family: Roboto, sans-serif;
+  font-size: 1.1rem;
+}
+section {
+  padding: 100px 0 100px;
+}
+@media (max-width: 768px) {
+}
